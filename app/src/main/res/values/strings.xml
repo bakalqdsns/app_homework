@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AniFocus</string>
+
+    <!-- MainActivity -->
+    <string name="main_title">AniFocus</string>
+    <string name="main_subtitle">二次元学习打卡</string>
+    <string name="daily_quote">每日语录</string>
+    <string name="study_tasks">学习任务</string>
+    <string name="go_checkin">去打卡</string>
+    <string name="add_task">添加任务</string>
+    <string name="no_tasks">暂无任务，点击 + 添加学习任务</string>
+
+    <!-- TaskEditActivity -->
+    <string name="edit_task">编辑任务</string>
+    <string name="task_title">任务标题</string>
+    <string name="task_title_hint">请输入任务标题</string>
+    <string name="task_content">学习内容</string>
+    <string name="task_content_hint">请输入学习内容详情</string>
+    <string name="deadline">截止日期</string>
+    <string name="pick_date">选择日期</string>
+    <string name="priority">优先级</string>
+    <string name="priority_low">低</string>
+    <string name="priority_medium">中</string>
+    <string name="priority_high">高</string>
+    <string name="save_task">保存任务</string>
+    <string name="delete_task">删除</string>
+    <string name="cancel">取消</string>
+    <string name="save_success">保存成功</string>
+    <string name="delete_success">删除成功</string>
+    <string name="title_required">标题不能为空</string>
+
+    <!-- CheckInActivity -->
+    <string name="daily_checkin">每日打卡</string>
+    <string name="streak_days">连续打卡</string>
+    <string name="days">天</string>
+    <string name="today_pending">今日待完成</string>
+    <string name="today_in_progress">今日进行中</string>
+    <string name="today_done">今日已完成</string>
+    <string name="checkin_history">打卡历史</string>
+    <string name="checkin_today">今日打卡</string>
+    <string name="already_checked">今日已打卡</string>
+    <string name="checkin_success">打卡成功！</string>
+    <string name="no_history">暂无打卡记录</string>
+    <string name="already_checked_in">今日已打卡</string>
+    <string name="checkin_no_activity">还没有任何学习活动哦，快去添加任务吧！</string>
+
+    <!-- TaskDetailActivity -->
+    <string name="task_detail">任务详情</string>
+    <string name="status">状态</string>
+    <string name="completed">已完成</string>
+    <string name="not_completed">未完成</string>
+    <string name="in_progress">进行中</string>
+    <string name="mark_complete">标记完成</string>
+    <string name="mark_incomplete">标记未完成</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="no_content">无</string>
+    <string name="task_not_exist">任务不存在</string>
+    <string name="study_progress">学习进度</string>
+    <string name="save_progress">保存进度</string>
+    <string name="progress_saved">进度已保存：%d%%</string>
+    <string name="progress_complete">进度已保存，任务已完成！</string>
+    <string name="progress_forward_only">进度只能前进，不能后退</string>
+
+    <!-- Notifications -->
+    <string name="channel_name">AniFocus 学习提醒</string>
+    <string name="channel_description">AniFocus 学习打卡提醒通知</string>
+    <string name="notification_study_title">AniFocus 学习提醒</string>
+    <string name="notification_study_text">今天还没有完成学习任务哦，快去学习吧！</string>
+    <string name="notification_checkin_title">AniFocus 每日打卡</string>
+    <string name="notification_checkin_text">今天的打卡还没有完成，快去打卡吧！</string>
+    <string name="notification_deadline_title">任务截止提醒</string>
+    <string name="notification_deadline_text">「%s」即将截止，请尽快完成！</string>
+    <string name="notification_checkin_success_title">打卡成功！</string>
+    <string name="notification_checkin_success_text">已连续打卡 %d 天，继续保持！</string>
+
+    <!-- Common -->
+    <string name="ok">确定</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+</resources>
