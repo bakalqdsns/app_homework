@@ -82,6 +82,6 @@ app/src/main/java/com/example/anifocus/
 
 ## 作者信息
 
-姓名：
-班级：
-学号：
+姓名：刘淇
+班级：数字媒体技术01
+学号：23120031014
