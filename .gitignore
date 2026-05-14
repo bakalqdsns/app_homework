@@ -1,0 +1,91 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc.)
+local.properties
+
+# IntelliJ IDEA
+*.iml
+.idea/
+.idea/caches/build_host_*
+.idea/caches/deviceHost_*
+.idea/caches/gradle_caches_*
+.idea/caches/libraries_*
+.idea/caches/modules_*
+.idea/caches/transforms_*
+.idea/caches/workspace.xml
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/copyright/
+.idea/deploymentTargetSelector.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/jpa.xml
+.idea/jsRenderedFilePreviewSettings.xml
+.idea/kotlinCodeInsight.xml
+.idea/libraries/
+.idea/migrations.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/other.xml
+.idea/runConfigurations.xml
+.idea/search.xml
+.idea/shelf/
+.idea/studio_states.xml
+.idea/tasks.xml
+.idea/workspace.xml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+# Keystore files
+*.jks
+*.keystore
+!debug.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+
+# Google Services (e.g. Firebase)
+google-services.json
+
+# Android lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Misc
+captures/
+*.log
